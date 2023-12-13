@@ -8,7 +8,7 @@ This portfolio showcases my skills, projects, and experiences. It is designed to
 
 ## Website Link
 
-You can view my portfolio live at [My Portfolio](https://b-timok.github.io/Web-Portfolio/){:target="_blank"}.
+You can view my portfolio live at https://b-timok.github.io/Web-Portfolio/.
 
 ## Features
 
