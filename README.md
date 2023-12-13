@@ -12,6 +12,7 @@ You can view my portfolio live at https://b-timok.github.io/Web-Portfolio/.
 
 ## Features
 
+- **Dark Mode** Changes the contrast of the website to be easier on the eyes.
 - **Projects:** Highlighting key projects with descriptions and links.
 - **Links:** Links to my resume, GitHub, and LinkedIn.
 - **Contact:** How to get in touch with me via email.
