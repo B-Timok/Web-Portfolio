@@ -215,3 +215,15 @@ body {
     align-items: center;
     font-size: 1.5rem;
   }
+  
+  .image-container {
+    display: flex;
+    overflow-x: auto;
+  }
+
+  .article-img {
+    flex: 0 0 auto;
+    width: 20%; /* Adjust this value to fit your layout */
+    height: auto;
+    margin-right: 10px; /* Add some space between the images */
+  }
