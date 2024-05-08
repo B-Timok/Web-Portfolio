@@ -155,8 +155,8 @@ body {
   }
   
   article .article-img {
-    width: 512px;
-    min-width: 512px;
+    width: 256px; /* Adjust this value to fit your layout */
+    min-width: 256px; /* Adjust this value to fit your layout */
     margin-inline-start: 4rem;
   }
   
@@ -165,8 +165,8 @@ body {
       flex-direction: column;
     }
     article .article-img {
-      width: 100%;
-      min-width: 100%;
+      width: 50%; /* Adjust this value to fit your layout */
+      min-width: 50%; /* Adjust this value to fit your layout */
       margin-inline-start: 0;
       margin-block-start: 2rem;
     }
