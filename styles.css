@@ -227,3 +227,9 @@ body {
     height: auto;
     margin-right: 10px; /* Add some space between the images */
   }
+
+  #specific-img {
+    flex: 0 0 auto;
+    width: 500px; /* Adjust this value to fit your layout */
+    height: auto;
+  }
