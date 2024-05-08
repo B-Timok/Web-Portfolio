@@ -226,7 +226,7 @@ body {
     flex: 0 0 auto;
     width: 20%; /* Adjust this value to fit your layout */
     height: auto;
-    margin-right: 10px; /* Add some space between the images */
+    margin-right: 15px; /* Add some space between the images */
   }
 
   #specific-img {
@@ -237,4 +237,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: block;
+  }
+
+  .gold-text {
+    color: gold;
   }
