@@ -133,7 +133,7 @@ body {
   
   article {
     display: flex;
-    padding: 3rem 0;
+    padding: 3rem 3rem 3rem 0;
   }
   
   article strong {
@@ -158,6 +158,7 @@ body {
     width: 256px; /* Adjust this value to fit your layout */
     min-width: 256px; /* Adjust this value to fit your layout */
     margin-inline-start: 4rem;
+    margin-left: auto;
   }
   
   @media (max-width: 1024px) {
@@ -230,6 +231,10 @@ body {
 
   #specific-img {
     flex: 0 0 auto;
-    width: 500px; /* Adjust this value to fit your layout */
+    width: 100%; /* The image will take up the full width of its container */
+    max-width: 600px; /* 500px equivalent in rem */
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
   }
